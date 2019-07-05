@@ -1,5 +1,5 @@
 <?php
-    require('./AgendaPDF');
+    require('./AgendaPDF.php');
     
   	$events = array(
 			"event1" => array(
