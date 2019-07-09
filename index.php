@@ -40,7 +40,6 @@
 			),
 		);
 
-		$day = date('w');
 		$start = date('Y-m-d');
 
 		$pdf = new AgendaPDF2("L", "A4", 7);
